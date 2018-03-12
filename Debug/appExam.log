@@ -1,0 +1,30 @@
+﻿Build started 30/01/2018 14:24:04.
+     1>Project "C:\Users\yass\Desktop\appExam\appExam\appExam.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\appExam.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\appExam.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:prompt grille.cpp
+         grille.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yass\Desktop\appExam\Debug\appExam.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.12.25827\Include\Manifest\dpiaware.manifest" /DEBUG:FASTLINK /PDB:"C:\Users\yass\Desktop\appExam\Debug\appExam.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yass\Desktop\appExam\Debug\appExam.lib" /MACHINE:X86 Debug\appExam.res
+         Debug\appExam.obj
+         Debug\appExamDoc.obj
+         Debug\appExamView.obj
+         Debug\Cellule.obj
+         Debug\grille.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         appExam.vcxproj -> C:\Users\yass\Desktop\appExam\Debug\appExam.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\appExam.tlog\unsuccessfulbuild".
+         Touching "Debug\appExam.tlog\appExam.lastbuildstate".
+     1>Done Building Project "C:\Users\yass\Desktop\appExam\appExam\appExam.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.42
